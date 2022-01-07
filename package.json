@@ -1,0 +1,19 @@
+{
+  "name": "js-ajax-maker",
+  "version": "1.0.0",
+  "description": "Simple tool to speed up ajax calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChloeArd2/npm-ajax.git"
+  },
+  "author": "chloe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChloeArd2/npm-ajax/issues"
+  },
+  "homepage": "https://github.com/ChloeArd2/npm-ajax#readme"
+}
